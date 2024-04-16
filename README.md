@@ -96,9 +96,8 @@ Systems engineer from Colombia facinated about robotics and Back-end programming
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=alexoberco&theme=onestar&no-frame=true&column=3&row=2)
 
+<h1 align="center"> Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1>
 
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -121,6 +120,10 @@ Systems engineer from Colombia facinated about robotics and Back-end programming
 </div>
 
 <br>
+
+## My Daily.Dev
+
+<a href="https://app.daily.dev/alexoberco"><img src="https://api.daily.dev/devcards/v2/hn31KbM2fQU5tanPCL17w.png?r=66o&type=wide" width="652" alt="Alejandro Bermudez Fajardo's Dev Card"/></a>
 
 
 

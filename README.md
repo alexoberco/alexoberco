@@ -1,3 +1,6 @@
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <h1 align="center"><b>Hi , I'm Alejandro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -17,7 +20,8 @@ Systems engineer from Colombia facinated about robotics and Back-end programming
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h1 align="center">Skills I have! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h1>
+
 <br>
 
 <p align="center">
@@ -34,6 +38,9 @@ Systems engineer from Colombia facinated about robotics and Back-end programming
   ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+  <a href="https://dart.dev/">
+    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
   
 
 <br>
@@ -49,14 +56,29 @@ Systems engineer from Colombia facinated about robotics and Back-end programming
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+   <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+   </a>
 
 
 <br>
 
+<br/>
+<br/>
+
+- **Robotics and related:**
+
+<img align = "left" alt= "ROS" height="37px" src= "https://i.pinimg.com/originals/97/57/5a/97575a1d15d506b19ef979f4166f3235.png"/>
+<img align = "left" alt= "ROS2" height="37px" src= "https://docs.olive-robotics.com/assets/ros2.f4e27747.png"/>
+<img align = "left" alt= "Arduino" height="37px" src= "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"/>
+
+<br/>
+<br/>
+
 <br>
 
+<h1 align="center"> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h1>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -64,16 +86,17 @@ Systems engineer from Colombia facinated about robotics and Back-end programming
 <a href="https://github.com/0xabdulkhalid/">
   <img src="https://github-readme-stats.vercel.app/api?username=alexoberco&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexoberco&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="alexoberco"/>
-
 </a>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+![trophy](https://github-profile-trophy.vercel.app/?username=alexoberco&theme=onestar&no-frame=true&column=3&row=2)
 
-<br>
-<br>
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>

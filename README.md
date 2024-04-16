@@ -11,7 +11,7 @@
 
 <br>
 
--Am a systems engineer from Colombia facinated about robotics and Back-end programming
+Systems engineer from Colombia facinated about robotics and Back-end programming
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
 <br><br>
